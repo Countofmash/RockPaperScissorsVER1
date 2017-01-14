@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\cayden\source\repos\rockpaperscissorsver1\consoleapplication1\consoleapplication1\source.cpp(34): warning C4551: function call missing argument list
+c:\users\cayden\source\repos\rockpaperscissorsver1\consoleapplication1\consoleapplication1\source.cpp(58): warning C4101: 'comChoice': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Cayden\Source\Repos\RockPaperScissorsVER1\ConsoleApplication1\Debug\rpsVER1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Cayden\Source\Repos\RockPaperScissorsVER1\ConsoleApplication1\Debug\rpsVER1.pdb (Full PDB)
